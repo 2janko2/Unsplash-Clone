@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { useDispatch } from "react-redux";
-import { BrowserRouter, Route } from "react-router-dom";
+import { HashRouter, Route } from "react-router-dom";
 
 import CategoryContainer from "./components/Category/CategoryContainer";
 import FavoritesContainer from "./components/Favorites/FavoritesContainer";
@@ -17,7 +17,7 @@ const App = () => {
     }, []);
 
     return (
-        <BrowserRouter>
+        <HashRouter>
             <div className="app-wrapper">
                 <Header />
                 <div>
@@ -27,7 +27,7 @@ const App = () => {
                     <Route path="/favorites" component={FavoritesContainer} />
                 </div>
             </div>
-        </BrowserRouter>
+        </HashRouter>
     );
 };
 
