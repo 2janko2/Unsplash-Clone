@@ -1,0 +1,35 @@
+.wrapper {
+    position: relative;
+}
+.search {
+    background: #eee;
+    padding: 12px 50px 12px 24px;
+    border: none;
+    border-radius: 24px;
+    outline: none;
+    min-width: 280px;
+}
+.searchBtn {
+    width: 32px;
+    height: 32px;
+    background: url("../../assets/images/search.svg") no-repeat center center;
+    background-size: 24px 24px;
+    border: none;
+    position: absolute;
+    right: 8px;
+    top: 4px;
+    opacity: 0.75;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.searchBtn:hover {
+    opacity: 0.9;
+}
+@media (max-width: 767px) {
+    .search{
+        min-width: unset;
+        width: 160px;
+        padding: 12px 40px 12px 16px;
+    }
+
+}
