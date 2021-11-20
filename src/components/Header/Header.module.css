@@ -54,7 +54,7 @@
 @media (max-width: 767px) {
     .wrapper {
         padding: 10px 10px 0;
-        min-height: 48px;
+        min-height: 60px;
     }
     .mobileMenu {
         display: block;
