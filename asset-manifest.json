@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Unsplash-Clone/static/css/main.3da0d497.chunk.css",
-    "main.js": "/Unsplash-Clone/static/js/main.8f8d7492.chunk.js",
-    "main.js.map": "/Unsplash-Clone/static/js/main.8f8d7492.chunk.js.map",
+    "main.css": "/Unsplash-Clone/static/css/main.c125adb0.chunk.css",
+    "main.js": "/Unsplash-Clone/static/js/main.42b69397.chunk.js",
+    "main.js.map": "/Unsplash-Clone/static/js/main.42b69397.chunk.js.map",
     "runtime-main.js": "/Unsplash-Clone/static/js/runtime-main.8188ccd5.js",
     "runtime-main.js.map": "/Unsplash-Clone/static/js/runtime-main.8188ccd5.js.map",
     "static/css/2.679831fc.chunk.css": "/Unsplash-Clone/static/css/2.679831fc.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.9ce2d68c.chunk.js.map": "/Unsplash-Clone/static/js/3.9ce2d68c.chunk.js.map",
     "index.html": "/Unsplash-Clone/index.html",
     "static/css/2.679831fc.chunk.css.map": "/Unsplash-Clone/static/css/2.679831fc.chunk.css.map",
-    "static/css/main.3da0d497.chunk.css.map": "/Unsplash-Clone/static/css/main.3da0d497.chunk.css.map",
+    "static/css/main.c125adb0.chunk.css.map": "/Unsplash-Clone/static/css/main.c125adb0.chunk.css.map",
     "static/js/2.7b25c353.chunk.js.LICENSE.txt": "/Unsplash-Clone/static/js/2.7b25c353.chunk.js.LICENSE.txt",
     "static/media/SearchResult.module.css": "/Unsplash-Clone/static/media/removeFavorite.98a0539a.svg",
     "static/media/logo.5c417410.svg": "/Unsplash-Clone/static/media/logo.5c417410.svg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.8188ccd5.js",
     "static/css/2.679831fc.chunk.css",
     "static/js/2.7b25c353.chunk.js",
-    "static/css/main.3da0d497.chunk.css",
-    "static/js/main.8f8d7492.chunk.js"
+    "static/css/main.c125adb0.chunk.css",
+    "static/js/main.42b69397.chunk.js"
   ]
 }
