@@ -25,7 +25,7 @@ const Search = (props) => {
             <input
                 className={classes.search}
                 onChange={(e) => onChange(e)}
-                placeholder="Search free high-resolution photos"
+                placeholder="Search high-resolution photos"
             />
             <button className={classes.searchBtn} onClick={search}></button>
         </div>
